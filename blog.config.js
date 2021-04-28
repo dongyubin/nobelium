@@ -2,8 +2,8 @@ const BLOG = {
   title: '文武科技社',
   author: '程序小黑',
   email: '892457803@qq.com',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  link: 'https://wwkjs.vercel.app',
+  description: '一个有科技感的博客',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -17,7 +17,7 @@ const BLOG = {
   showArchive: true, // WIP
   socialLink: 'https://twitter.com/craigaryhart',
   seo: {
-    keywords: ['Blog', 'Website', 'Notion'],
+    keywords: ['Blog', 'Website', 'Notion', '计划'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
