@@ -15,7 +15,7 @@ const BLOG = {
   sortByDate: false,
   showAbout: true, // WIP
   showArchive: true, // WIP
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://www.wangdu.site/',
   seo: {
     keywords: ['Blog', 'Website', 'Notion', '计划'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
