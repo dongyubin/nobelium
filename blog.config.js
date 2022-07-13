@@ -1,7 +1,7 @@
 const BLOG = {
   title: '文武科技柜',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
+  author: '程序小黑',
+  email: 'itxh888@gmail.com',
   link: 'https://wwkjs.vercel.app',
   description: '文武科技社的后花园',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
